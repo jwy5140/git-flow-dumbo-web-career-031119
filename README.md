@@ -5,7 +5,9 @@
 * Get familiar with git syntax
 * Get comfortable creating, merging, pushing, and pulling branches
 * Resolve merge conflicts
-
+## Lauren Here:
+ 
+(╯°□°）╯︵ ┻━┻
 ## Instructions
 
 Remember to fork and clone this lab if you haven't already.
@@ -265,6 +267,7 @@ Now you have:
   * Deleted a remote branch
 * Extra Credit
   * Practiced resolving merge conflicts, pushing, and deleting branches
+ 
 
 ## Resources
 * [SourceTree Blog](http://blog.sourcetreeapp.com/) - [Merge or Rebase?](http://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)
